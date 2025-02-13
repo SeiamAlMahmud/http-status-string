@@ -1,0 +1,26 @@
+{
+  "name": "http-status-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "string"
+  ],
+  "author": "Seiam Al Mshmud",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "A lightweight HTTP status codes package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeiamAlMahmud/is-check-mahmud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SeiamAlMahmud/is-check-mahmud/issues"
+  },
+  "homepage": "https://github.com/SeiamAlMahmud/is-check-mahmud#readme"
+}
