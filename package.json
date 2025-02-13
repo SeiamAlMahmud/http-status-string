@@ -17,10 +17,10 @@
   "description": "A lightweight HTTP status codes package",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SeiamAlMahmud/is-check-mahmud.git"
+    "url": "https://github.com/SeiamAlMahmud/http-status-string.git"
   },
   "bugs": {
-    "url": "https://github.com/SeiamAlMahmud/is-check-mahmud/issues"
+    "url": "https://github.com/SeiamAlMahmud/http-status-string/issues"
   },
-  "homepage": "https://github.com/SeiamAlMahmud/is-check-mahmud#readme"
+  "homepage": "https://github.com/SeiamAlMahmud/http-status-string#readme"
 }
