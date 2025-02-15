@@ -1,4 +1,4 @@
 const { HttpStatus } = require('./index');
 
-console.log(HttpStatus.NOT_FOUND); // 404
-console.log(HttpStatus.OK); // 200
+console.log(HttpStatus.NOT_FOUND_404); // 404
+console.log(HttpStatus.OK_200); // 200
